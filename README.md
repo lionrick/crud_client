@@ -8,8 +8,10 @@ This is a simple Crud (create/read/update/delete) using the specified thecnlogie
   - Spring MVC
   - Bean Validations
  
--React
+- React
   - ReactStrap
  
- 
+Deploys:
+heroku: https://crudclient.herokuapp.com/api/client/
+
   
